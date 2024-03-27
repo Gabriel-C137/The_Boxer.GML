@@ -25,5 +25,6 @@
     {"name":"spr_player_parado1","order":1,"path":"sprites/spr_player_parado1/spr_player_parado1.yy",},
     {"name":"spr_player_parado2","order":2,"path":"sprites/spr_player_parado2/spr_player_parado2.yy",},
     {"name":"spr_player_soco","order":3,"path":"sprites/spr_player_soco/spr_player_soco.yy",},
+    {"name":"spr_inimigo","order":4,"path":"sprites/spr_inimigo/spr_inimigo.yy",},
   ],
 }
